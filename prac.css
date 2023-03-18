@@ -1,0 +1,10 @@
+
+.hey{
+    border: 2px solid black;
+    padding: -30px
+    
+}
+body {
+    background-image: url(""https://secure.gravatar.com/avatar/a07645826af48a15e1c6ce2869f2083b?s=49&d=identicon&r=g"") ,url(""https://blog.codingninjas.in/wp-content/uploads/2017/01/cropped-Final_logo_switchtocode-01.png"");
+   z-index:5;
+}
